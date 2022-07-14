@@ -1,0 +1,119 @@
+.second__container {
+    height: 664px;
+    text-align: center;
+    background-color: #F0F0F0;
+    padding-top: 51px;
+}
+
+.second__title__span {
+    font-size: 56px;
+    color: #188486;
+
+}
+
+.second__container__services {
+    width: 374px;
+    height: 53px;
+    border-radius: 15px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 21px;
+
+}
+
+.second__container__services__left {
+    width: 50%;
+    background: #188486;
+    color: white;
+    font-size: 15px;
+    float: left;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    height: inherit;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    font-weight: 700;
+}
+
+.second__container__services__right {
+    width: 50%;
+    background: #333333B2;
+    color: white;
+    font-size: 15px;
+    float: right;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: inherit;
+    cursor: pointer;
+    border: none;
+    font-weight: 700;
+}
+
+.second__p {
+    width: 90%;
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 64px;
+}
+
+.second__container__first__icon__container {
+
+    height: 182px;
+    width: 165.54px;
+    background: #333333;
+    text-align: center;
+    border-radius: 15px;
+    align-items: center;
+    margin-right: 58.5px;
+    padding-top: 24px;
+    padding-right: 5px;
+    padding-left: 5px;
+
+}
+
+.second__container__first__icon__p {
+    font-size: 14px;
+    color: #F9F5F4;
+}
+
+.second__container__last__icon__container {
+    height: 182px;
+    width: 165.54px;
+    background: #fff;
+    text-align: center;
+    border-radius: 15px;
+    align-items: center;
+    margin-right: 58.5px;
+    padding-top: 24px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.second__container__last__icon__p {
+    font-size: 14px;
+    color:#333333;
+}
+
+.snapper {
+    margin-top: 56px;
+}
+
+.snapper span:first-child {
+    height: 12px;
+    width: 12px;
+    background: #7DB6A3;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 16px;
+}
+
+.snapper span:last-child {
+    height: 12px;
+    width: 12px;
+    background: #D9D9D9;
+    border-radius: 50%;
+    display: inline-block;
+}

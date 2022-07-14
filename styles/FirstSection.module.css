@@ -1,0 +1,47 @@
+.first__container {
+    padding-top: 1px;
+    height: 664px;
+    position: relative;
+    margin-left: 70px;
+}
+
+.first__container__title {
+    width: 456px;
+    height: 70px;
+    padding-top: 70px;
+
+}
+.first__container__first__img{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.first__container__second__img {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index : 100;
+}
+.first__container__third__img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-flex;
+    padding-left: 0px;
+    padding-top: 55px;
+}
+.first__title__span {
+    font-size: 56px;
+    color: #188486;
+    padding-left: 10px;
+}
+
+.first__content__p {
+    font-size: 22px;
+    color: #000;
+    padding-left: 10px;
+    width: 680px;
+}
+
+
+@media (max-width: 600px) {}
